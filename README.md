@@ -33,10 +33,10 @@
 
 ### 🎯 Current Focus
 
-- 🔭 Working on thesis: **Differential Privacy in LLM-based Healthcare RAG Systems**
-- 🌱 Deepening expertise in **Federated Learning** and **Privacy-Preserving ML**
-- 👯 Open to collaborate on **AI/ML projects** and **research opportunities**
-- 💼 Actively seeking **Machine Learning Engineer** roles for **Summer 2026**
+- Working on thesis: **Differential Privacy in LLM-based Healthcare RAG Systems**
+- Deepening expertise in **Federated Learning** and **Privacy-Preserving ML**
+- Open to collaborate on **AI/ML projects** and **research opportunities**
+- Actively seeking **Machine Learning Engineer** roles for **Summer 2026**
 
 ---
 
