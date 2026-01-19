@@ -22,12 +22,12 @@
 
 ### 👨‍💻 About Me
 
-🎓 **MS in Computer Science (Thesis)** @ Purdue University Northwest  
-📊 **GPA:** 3.82/4.0 | **Expected Graduation:** May 2026
+- **MS in Computer Science (Thesis)** @ Purdue University Northwest  
+- **GPA:** 3.82/4.0 | **Expected Graduation:** May 2026
 
-🔬 **Research Focus:** Differential Privacy • Large Language Models • RAG in Healthcare  
-🏢 **Former ML Engineer** @ Boston Limited  
-📄 **Published:** 2 IEEE Papers + 1 Open-Access Research Paper
+- **Research Focus:** Differential Privacy • Large Language Models • RAG in Healthcare  
+- **Former ML Engineer** @ Boston Limited  
+- **Published:** 2 IEEE Papers + 1 Open-Access Research Paper
 
 💡 *"Success is not about reaching the destination; Success is all about the journey!"*
 
