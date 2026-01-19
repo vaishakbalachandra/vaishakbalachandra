@@ -155,26 +155,33 @@
 
 <div align="center">
 
-<!-- Automatically displays all your public repositories -->
-<a href="https://github.com/vaishakbalachandra?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vaishakbalachandra&repo=PneumoGAN&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF" />
+<!-- Repository Cards with Descriptions -->
+<a href="https://github.com/vaishakbalachandra/PneumoGAN">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vaishakbalachandra&repo=PneumoGAN&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&show_owner=false&cache_seconds=86400" />
 </a>
-<a href="https://github.com/vaishakbalachandra?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vaishakbalachandra&repo=Currency-and-Fake-Currency-Detection&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF" />
-</a>
-
-<a href="https://github.com/vaishakbalachandra?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vaishakbalachandra&repo=Cricket-Analytics-Batting-Performance-Analysis-Prediction&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF" />
-</a>
-<a href="https://github.com/vaishakbalachandra?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vaishakbalachandra&repo=Retail-Sales-Analysis&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF" />
+<a href="https://github.com/vaishakbalachandra/Currency-and-Fake-Currency-Detection">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vaishakbalachandra&repo=Currency-and-Fake-Currency-Detection&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&show_owner=false&cache_seconds=86400" />
 </a>
 
-<a href="https://github.com/vaishakbalachandra?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vaishakbalachandra&repo=Housing-Price-Prediction&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF" />
+<a href="https://github.com/vaishakbalachandra/llm-inference-optimization">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vaishakbalachandra&repo=llm-inference-optimization&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&show_owner=false&cache_seconds=86400" />
 </a>
-<a href="https://github.com/vaishakbalachandra?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vaishakbalachandra&repo=RAGenetics&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF" />
+<a href="https://github.com/vaishakbalachandra/Cricket-Analytics-Batting-Performance-Analysis-Prediction">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vaishakbalachandra&repo=Cricket-Analytics-Batting-Performance-Analysis-Prediction&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&show_owner=false&cache_seconds=86400" />
+</a>
+
+<a href="https://github.com/vaishakbalachandra/Retail-Sales-Analysis">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vaishakbalachandra&repo=Retail-Sales-Analysis&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&show_owner=false&cache_seconds=86400" />
+</a>
+<a href="https://github.com/vaishakbalachandra/Housing-Price-Prediction">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vaishakbalachandra&repo=Housing-Price-Prediction&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&show_owner=false&cache_seconds=86400" />
+</a>
+
+<a href="https://github.com/vaishakbalachandra/RAGenetics">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vaishakbalachandra&repo=RAGenetics&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&show_owner=false&cache_seconds=86400" />
+</a>
+<a href="https://github.com/vaishakbalachandra/Purdue-University">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vaishakbalachandra&repo=Purdue-University&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&show_owner=false&cache_seconds=86400" />
 </a>
 
 <!-- Dynamic repository list that shows ALL repos -->
