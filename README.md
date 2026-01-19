@@ -20,18 +20,17 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-### 👨‍💻 About Me
+### About Me
 
 - **MS in Computer Science (Thesis)** @ Purdue University Northwest  
 - **GPA:** 3.82/4.0 | **Expected Graduation:** May 2026
-
 - **Research Focus:** Differential Privacy • Large Language Models • RAG in Healthcare  
 - **Former ML Engineer** @ Boston Limited  
 - **Published:** 2 IEEE Papers + 1 Open-Access Research Paper
 
 💡 *"Success is not about reaching the destination; Success is all about the journey!"*
 
-### 🎯 Current Focus
+### Current Focus
 
 - Working on thesis: **Differential Privacy in LLM-based Healthcare RAG Systems**
 - Deepening expertise in **Federated Learning** and **Privacy-Preserving ML**
