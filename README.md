@@ -22,7 +22,7 @@
 
 ### About Me
 
-- **MS in Computer Science (Thesis)** @ Purdue University Northwest  
+- **MS in Computer Science (Thesis)** @ Purdue University
 - **GPA:** 3.82/4.0 | **Expected Graduation:** May 2026
 - **Research Focus:** Differential Privacy • Large Language Models • RAG in Healthcare  
 - **Former ML Engineer** @ Boston Limited  
