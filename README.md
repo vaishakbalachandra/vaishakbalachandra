@@ -28,8 +28,6 @@
 - **Former ML Engineer** @ Boston Limited  
 - **Published:** 2 IEEE Papers + 1 Open-Access Research Paper
 
-💡 *"Success is not about reaching the destination; Success is all about the journey!"*
-
 ### Current Focus
 
 - Working on thesis: **Differential Privacy in LLM-based Healthcare RAG Systems**
