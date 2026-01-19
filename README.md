@@ -10,6 +10,7 @@
 ### 🧠 Transforming Data into Intelligence | 🔬 Privacy-Preserving AI Enthusiast
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vaishakbalachandra)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@vaishakbalachandra01252002)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaishakbalachandra21252002@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://vaishakbalachandra.github.io)
 
@@ -26,7 +27,7 @@
 
 🔬 **Research Focus:** Differential Privacy • Large Language Models • RAG in Healthcare  
 🏢 **Former ML Engineer** @ Boston Limited  
-📄 **Published:** 2 IEEE Research Papers
+📄 **Published:** 2 IEEE Papers + 1 Open-Access Research Paper
 
 💡 *"Success is not about reaching the destination; Success is all about the journey!"*
 
@@ -150,6 +151,43 @@
 
 ---
 
+### 📚 All My Repositories
+
+<div align="center">
+
+<!-- Automatically displays all your public repositories -->
+<a href="https://github.com/vaishakbalachandra?tab=repositories">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vaishakbalachandra&repo=PneumoGAN&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF" />
+</a>
+<a href="https://github.com/vaishakbalachandra?tab=repositories">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vaishakbalachandra&repo=Currency-and-Fake-Currency-Detection&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF" />
+</a>
+
+<a href="https://github.com/vaishakbalachandra?tab=repositories">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vaishakbalachandra&repo=Cricket-Analytics-Batting-Performance-Analysis-Prediction&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF" />
+</a>
+<a href="https://github.com/vaishakbalachandra?tab=repositories">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vaishakbalachandra&repo=Retail-Sales-Analysis&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF" />
+</a>
+
+<a href="https://github.com/vaishakbalachandra?tab=repositories">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vaishakbalachandra&repo=Housing-Price-Prediction&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF" />
+</a>
+<a href="https://github.com/vaishakbalachandra?tab=repositories">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vaishakbalachandra&repo=RAGenetics&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF" />
+</a>
+
+<!-- Dynamic repository list that shows ALL repos -->
+<br><br>
+
+### 🔍 Browse All Repositories
+
+[![All Repositories](https://img.shields.io/badge/View_All_10_Repositories-0D1117?style=for-the-badge&logo=github&logoColor=F85D7F)](https://github.com/vaishakbalachandra?tab=repositories)
+
+</div>
+
+---
+
 ### 📊 GitHub Analytics
 
 <div align="center">
@@ -183,10 +221,49 @@
 
 ---
 
-### 📝 Recent Publications
+### 📝 Research Publications
 
-📄 **[IEEE Published Paper 1]** - *Details of your first publication*  
-📄 **[IEEE Published Paper 2]** - *Details of your second publication*
+<div align="center">
+
+#### 📚 IEEE Conference Publications
+
+</div>
+
+**📄 Design and Analysis of Power and Area Efficient 4-2 Compressor Circuit for Tree Multiplier**  
+*IEEE CSITSS 2023*  
+- Designed optimized digital circuits for high-performance computing
+- Achieved significant power and area reduction in multiplier architectures
+- Focus: VLSI Design, Low-Power Computing, Digital Circuit Optimization
+
+**📄 Fake Currency Detection using Machine Learning and Image Processing: An Application for Blind People using Android Studio**  
+*IEEE ICACRS 2023*  
+- Developed assistive technology for visually impaired individuals
+- Combined ML algorithms with mobile app development for real-time currency verification
+- Focus: Computer Vision, Accessibility Technology, Mobile ML Applications
+
+<div align="center">
+
+#### 📖 Open-Access Research
+
+</div>
+
+**📄 Implementation and Analysis of PneumoGAN: Pneumonia Diagnosis with Synthetic Data Generation**  
+*Unpublished, Open-access document*  
+- Achieved **94.99% accuracy** in pneumonia detection using GANs
+- Synthetic data generation to address medical imaging dataset limitations
+- Focus: Medical AI, Generative Models, Healthcare Diagnostics
+
+---
+
+### ✍️ Technical Writing
+
+<div align="center">
+
+[![Medium](https://img.shields.io/badge/Read_My_Articles_on_Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@vaishakbalachandra01252002)
+
+I write about Machine Learning, AI Research, and Data Science on Medium!
+
+</div>
 
 ---
 
@@ -198,6 +275,7 @@ I'm always interested in collaborating on innovative ML/AI projects and discussi
 
 **📧 Email:** vaishakbalachandra21252002@gmail.com  
 **💼 LinkedIn:** [linkedin.com/in/vaishakbalachandra](https://linkedin.com/in/vaishakbalachandra)  
+**✍️ Medium:** [medium.com/@vaishakbalachandra01252002](https://medium.com/@vaishakbalachandra01252002)  
 **🌐 Location:** Indiana, United States  
 
 **💡 Open to:** Full-time opportunities | Research collaborations | Interesting projects
